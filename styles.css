@@ -122,7 +122,7 @@ footer {
 
 /* background bilde */
 body {
-    background-image: url('../media/galaxy.jpg');
+    background-image: url('/media/galaxy.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -138,7 +138,7 @@ body {
   height: 100px;
   border-radius: 50%;
   background-color: rgba(32,42,71, 0.9);
-  background-image: url('../media/Cartoon_space_rocket.jpg.png'); /* replace with your rocket image */
+  background-image: url('/media/Cartoon_space_rocket.jpg.png'); /* replace with your rocket image */
   background-size: 70%;
   background-repeat: no-repeat;
   background-position: center;
